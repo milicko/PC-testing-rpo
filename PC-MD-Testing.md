@@ -33,11 +33,22 @@ aaa - PC_Normal
 
 **aaa** - PC_Bold
 
+__bbb__ - PC_Bold
+
 *aaa* - PC_Italic
+
+_bbb_ - PC_Italic
 
 > aaa - PC_BlockCode
 
 * aaa - PC_BulletList
+* bbb - PC_BulletList
+
+- aaa - PC_BulletList
+- bbb - PC_BulletList
+
++ aaa - PC_BulletList
++ bbb - PC_BulletList
 
 1. aaa - PC_NumberedList
 
@@ -52,9 +63,11 @@ aaa - PC_Normal
 
 [website](www.puzzlescloud.com) PC_Link
 
-| C1 | C2 |
-| --- | --- |
-|  |  | 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 Table: Table Title - PC_TableCaption
 
 ![image](https://raw.github.com/adam-p/markdown-here/master/src/common/images/icon48.png) - PC_FigureCaption
