@@ -1,0 +1,44 @@
+chapters:
+- chapters:
+  - chapters:
+    - chapters:
+      - chapters: []
+        name: Definitions
+        path: CLA-entity.md
+        type: MARKDOWN_CHAPTER_ITEM
+      - chapters: []
+        name: Grant of Rights
+        path: CLA-entity.md
+        type: MARKDOWN_CHAPTER_ITEM
+      - chapters: []
+        name: Agreement
+        path: CLA-entity.md
+        type: MARKDOWN_CHAPTER_ITEM
+      - chapters: []
+        name: Disclaimer
+        path: CLA-entity.md
+        type: MARKDOWN_CHAPTER_ITEM
+      - chapters: []
+        name: Consequential Damage Waiver
+        path: CLA-entity.md
+        type: MARKDOWN_CHAPTER_ITEM
+      - chapters: []
+        name: Miscellaneous
+        path: CLA-entity.md
+        type: MARKDOWN_CHAPTER_ITEM
+      name: Markdown Here Entity Contributor License Agreement
+      path: CLA-entity.md
+      type: MARKDOWN_CHAPTER_ITEM
+    name: CLA-entity.md
+    path: CLA-entity.md
+    type: MARKDOWN_CHAPTER
+  name: asdasd
+  path: ''
+  type: MANUAL_CHAPTER
+- chapters: []
+  name: asdasd
+  path: ''
+  type: MANUAL_CHAPTER
+name: ROOT
+path: null
+type: null
