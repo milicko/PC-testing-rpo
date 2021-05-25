@@ -61,7 +61,7 @@ _bbb_ - PC_Italic
 
 * [ ] aaa - PC_TaskList
 
-[website](www.puzzlescloud.com) PC_Link
+[website](https://puzzlescloud.com) PC_Link
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
@@ -70,7 +70,7 @@ _bbb_ - PC_Italic
 | zebra stripes | are neat      |    $1 |
 Table: Table Title - PC_TableCaption
 
-![image](https://raw.github.com/adam-p/markdown-here/master/src/common/images/icon48.png) - PC_FigureCaption
+![image](https://raw.github.com/adam-p/markdown-here/master/src/common/images/icon48.png)
 
 ![image](https://raw.github.com/adam-p/markdown-here/master/src/common/images/icon48.png "Remote Image") - 
 
@@ -78,7 +78,7 @@ Table: Table Title - PC_TableCaption
 
 ![image](./images/1.jpg)
 
-![image](/images/1.jpg "Local Image - Absolute path
+![image](/images/1.jpg "Local Image - Absolute path")
 
 ![image](/images/1.jpg)
 
