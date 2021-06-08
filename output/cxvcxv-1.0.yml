@@ -1,0 +1,226 @@
+chapters:
+- chapters: []
+  name: asdasd
+  path: ''
+  type: MANUAL_CHAPTER
+- chapters:
+  - chapters:
+    - chapters:
+      - chapters: []
+        name: |+
+          Editors
+
+        path: Other-Markdown-Tools.md
+        type: MARKDOWN_CHAPTER_ITEM
+      name: |+
+        Tools
+
+      path: Other-Markdown-Tools.md
+      type: MARKDOWN_CHAPTER_ITEM
+    - chapters:
+      - chapters: []
+        name: |+
+          JavaScript
+
+        path: Other-Markdown-Tools.md
+        type: MARKDOWN_CHAPTER_ITEM
+      name: |+
+        Libraries
+
+      path: Other-Markdown-Tools.md
+      type: MARKDOWN_CHAPTER_ITEM
+    name: Other-Markdown-Tools
+    path: Other-Markdown-Tools.md
+    type: MARKDOWN_CHAPTER
+  - chapters:
+    - chapters:
+      - chapters:
+        - chapters:
+          - chapters: []
+            name: |+
+              Gmail
+
+            path: Compatibility.md
+            type: MARKDOWN_CHAPTER_ITEM
+          - chapters: []
+            name: |+
+              Thunderbird
+
+            path: Compatibility.md
+            type: MARKDOWN_CHAPTER_ITEM
+          - chapters: []
+            name: |+
+              Inbox By Google
+
+            path: Compatibility.md
+            type: MARKDOWN_CHAPTER_ITEM
+          - chapters: []
+            name: |+
+              Google Groups
+
+            path: Compatibility.md
+            type: MARKDOWN_CHAPTER_ITEM
+          - chapters: []
+            name: |+
+              Evernote
+
+            path: Compatibility.md
+            type: MARKDOWN_CHAPTER_ITEM
+          - chapters: []
+            name: |+
+              Blogger
+
+            path: Compatibility.md
+            type: MARKDOWN_CHAPTER_ITEM
+          - chapters: []
+            name: |+
+              Google Sites
+
+            path: Compatibility.md
+            type: MARKDOWN_CHAPTER_ITEM
+          - chapters: []
+            name: |+
+              Outlook.com/Hotmail
+
+            path: Compatibility.md
+            type: MARKDOWN_CHAPTER_ITEM
+          - chapters: []
+            name: |+
+              Yahoo email
+
+            path: Compatibility.md
+            type: MARKDOWN_CHAPTER_ITEM
+          - chapters: []
+            name: |+
+              Wordpress
+
+            path: Compatibility.md
+            type: MARKDOWN_CHAPTER_ITEM
+          - chapters: []
+            name: |+
+              Freshdesk
+
+            path: Compatibility.md
+            type: MARKDOWN_CHAPTER_ITEM
+          - chapters: []
+            name: |+
+              Fastmail
+
+            path: Compatibility.md
+            type: MARKDOWN_CHAPTER_ITEM
+          - chapters: []
+            name: |+
+              ProtonMail
+
+            path: Compatibility.md
+            type: MARKDOWN_CHAPTER_ITEM
+          name: |+
+            The "Works Great" Bucket
+
+          path: Compatibility.md
+          type: MARKDOWN_CHAPTER_ITEM
+        - chapters: []
+          name: |+
+            Postbox
+
+          path: Compatibility.md
+          type: MARKDOWN_CHAPTER_ITEM
+        - chapters: []
+          name: |+
+            Facebook
+
+          path: Compatibility.md
+          type: MARKDOWN_CHAPTER_ITEM
+        - chapters: []
+          name: |+
+            Google Hangouts
+
+          path: Compatibility.md
+          type: MARKDOWN_CHAPTER_ITEM
+        - chapters: []
+          name: |+
+            Tumblr
+
+          path: Compatibility.md
+          type: MARKDOWN_CHAPTER_ITEM
+        - chapters: []
+          name: |+
+            Squarespace
+
+          path: Compatibility.md
+          type: MARKDOWN_CHAPTER_ITEM
+        - chapters: []
+          name: |+
+            Blackboard Learn
+
+          path: Compatibility.md
+          type: MARKDOWN_CHAPTER_ITEM
+        - chapters:
+          - chapters:
+            - chapters: []
+              name: |+
+                Pasting vs. Typing
+
+              path: Compatibility.md
+              type: MARKDOWN_CHAPTER_ITEM
+            name: |+
+              TinyMCE
+
+            path: Compatibility.md
+            type: MARKDOWN_CHAPTER_ITEM
+          - chapters: []
+            name: |+
+              CKEditor
+
+            path: Compatibility.md
+            type: MARKDOWN_CHAPTER_ITEM
+          - chapters: []
+            name: |+
+              Aloha Editor
+
+            path: Compatibility.md
+            type: MARKDOWN_CHAPTER_ITEM
+          - chapters: []
+            name: |+
+              Redactor
+
+            path: Compatibility.md
+            type: MARKDOWN_CHAPTER_ITEM
+          - chapters: []
+            name: |+
+              Hallo
+
+            path: Compatibility.md
+            type: MARKDOWN_CHAPTER_ITEM
+          - chapters:
+            - chapters: []
+              name: |+
+                bootstrap-wysihtml5
+
+              path: Compatibility.md
+              type: MARKDOWN_CHAPTER_ITEM
+            name: |+
+              wysihtml5
+
+            path: Compatibility.md
+            type: MARKDOWN_CHAPTER_ITEM
+          name: |+
+            Editor Tools
+
+          path: Compatibility.md
+          type: MARKDOWN_CHAPTER_ITEM
+        name: Compatibility
+        path: Compatibility.md
+        type: MARKDOWN_CHAPTER
+      name: adsad
+      path: ''
+      type: MANUAL_CHAPTER
+    name: adasd
+    path: ''
+    type: MANUAL_CHAPTER
+  name: adasd
+  path: ''
+  type: MANUAL_CHAPTER
+name: ROOT
+path: null
+type: null
