@@ -50,6 +50,8 @@ _bbb_ - PC_Italic
 + aaa - PC_BulletList
 + bbb - PC_BulletList
 
+text
+
 1. aaa - PC_NumberedList
 
 1. aaa - PC_NumberedList
