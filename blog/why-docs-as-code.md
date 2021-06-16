@@ -36,6 +36,7 @@ There are also corresponding Headless CMSs used for the content management. Ther
 The list of available Headlass CMSs can be found on the following link: [https://jamstack.org/headless-cms/](https://jamstack.org/headless-cms/)
 
 Nice examples of how Microsoft, GitHub or GitLab have done it could be found on the following links:
+
 1. [https://docs.microsoft.com/en-us/teamblog/a-new-feedback-system-is-coming-to-docs](https://docs.microsoft.com/en-us/teamblog/a-new-feedback-system-is-coming-to-docs)
 2. [https://github.com/github/docs](https://github.com/github/docs)
 3. [https://gitlab.com/gitlab-org/gitlab-docs](https://gitlab.com/gitlab-org/gitlab-docs)
@@ -93,6 +94,7 @@ The intention is that Technical Writers, Developers, Product Teams and all other
 Unblock your productivity and efficiency progress and start practicing docs-as-code now. If you improve your productivity every month 2%, year over year will be 1/4. Think about it.
 
 **For further reading we would recommend the following references:**
+
 0. [https://technology.blog.gov.uk/2017/08/25/why-we-use-a-docs-as-code-approach-for-technical-documentation/](https://technology.blog.gov.uk/2017/08/25/why-we-use-a-docs-as-code-approach-for-technical-documentation/){:target="_blank"}
 1. [https://docs.microsoft.com/en-us/teamblog/a-new-feedback-system-is-coming-to-docs](https://docs.microsoft.com/en-us/teamblog/a-new-feedback-system-is-coming-to-docs){:target="_blank"}
 2. [https://www.writethedocs.org/guide/docs-as-code/](https://www.writethedocs.org/guide/docs-as-code/){:target="_blank"}
