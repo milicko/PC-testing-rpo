@@ -1,0 +1,24 @@
+chapters:
+- chapters:
+  - chapters: []
+    name: Test
+    path: ''
+    type: MANUAL_CHAPTER
+  - chapters: []
+    name: |+
+      Education
+
+    path: cv/Education.md
+    type: MARKDOWN_CHAPTER
+  - chapters: []
+    name: |+
+      Responsibilities
+
+    path: cv/Responsibilities.md
+    type: MARKDOWN_CHAPTER
+  name: CV
+  path: ''
+  type: MANUAL_CHAPTER
+name: ROOT
+path: null
+type: null
