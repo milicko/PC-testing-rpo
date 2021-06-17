@@ -1,0 +1,45 @@
+chapters:
+- chapters:
+  - chapters: []
+    name: Home
+    path: Home.md
+    type: MARKDOWN_CHAPTER
+  - chapters: []
+    name: This is md file with coded UML diagram
+    path: markdown files/markdownCodedUML2.md
+    type: MARKDOWN_CHAPTER
+  name: Introduction
+  path: ''
+  type: MANUAL_CHAPTER
+- chapters:
+  - chapters: []
+    name: PuzzlesCloud Team Selected for Raising Starts Program
+    path: blog/raising-starts-program.md
+    type: MARKDOWN_CHAPTER
+  - chapters: []
+    name: Why docs-as-code?
+    path: blog/why-docs-as-code.md
+    type: MARKDOWN_CHAPTER
+  name: blog
+  path: blog
+  type: FOLDER_CHAPTER
+fieldValues:
+  doc-author-email: ''
+  release-date: ''
+  doc-type: High Level Design
+  doc-subtitle: Core Network
+  doc-title: Vodafone HLD
+  doc-company: ''
+  change-description: ''
+  doc-company-url: ''
+  doc-version: ''
+  ' reference-doc-title ': ''
+  doc-release-date: ''
+  doc-author: ''
+  File Name: uniberg-hld.docx
+  doc-author-name: ''
+  ' reference-doc-filename ': ''
+  doc-id: ''
+name: ROOT
+path: null
+type: null
