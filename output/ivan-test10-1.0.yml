@@ -1,8 +1,4 @@
 chapters:
-- chapters: []
-  name: PC-MD-Testing
-  path: PC-MD-Testing.md
-  type: MARKDOWN_CHAPTER
 - chapters:
   - chapters: []
     name: PuzzlesCloud Team Selected for Raising Starts Program
@@ -18,12 +14,12 @@ chapters:
 fieldValues:
   doc-author-email: ''
   release-date: ''
-  doc-type: High Level Design
+  doc-type: ''
   doc-subtitle: ''
-  doc-title: HLD for Core Network
-  doc-company: Vodafone
+  doc-title: ''
+  doc-company: ''
   change-description: ''
-  doc-company-url: vodafone.de
+  doc-company-url: ''
   doc-version: ''
   ' reference-doc-title ': ''
   doc-release-date: ''
@@ -31,7 +27,7 @@ fieldValues:
   File Name: ivan-test10.docx
   doc-author-name: ''
   ' reference-doc-filename ': ''
-  doc-id: '001'
+  doc-id: ''
 name: ROOT
 path: null
 type: null
