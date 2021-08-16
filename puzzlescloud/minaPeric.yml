@@ -1,0 +1,29 @@
+chapters:
+- chapters: []
+  name: Contributing.md
+  path: CONTRIBUTING.md
+  type: MARKDOWN_CHAPTER
+- chapters: []
+  name: Markdown Here Entity Contributor License Agreement
+  path: CLA-entity.md
+  type: MARKDOWN_CHAPTER
+fieldValues:
+  doc-author-email: ''
+  release-date: dd
+  doc-type: dfg
+  doc-subtitle: dfg
+  doc-title: dfgdfg
+  doc-company: d
+  change-description: ''
+  doc-company-url: aa
+  doc-version: a
+  ' reference-doc-title ': ''
+  doc-release-date: ''
+  doc-author: ff
+  File Name: minaPeric.docx
+  doc-author-name: ''
+  ' reference-doc-filename ': ''
+  doc-id: a
+name: ROOT
+path: null
+type: null
